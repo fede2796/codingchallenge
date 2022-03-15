@@ -1,0 +1,64 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.conteiner{
+  width: 55%;
+  height: 600px;
+  background: black;
+  opacity: 0.6;
+  border-radius: 4%;
+  margin-top: 25px;
+  margin-left: 450px;
+
+}
+
+.logo{
+  width: 150px;
+  display: block;
+  margin: auto;
+  margin-top: 25px;
+}
+
+.text{
+color: #48fb47;
+text-align: center;
+}
+
+#buttomconteiner{
+  text-align: center;
+  background: rgba(0, 255, 0, 1);
+  width: 70%;
+  height: 5%;
+  margin:auto;
+  padding: 8px;
+  border-radius: 2%;
+
+}
+.mono{
+  width: 72%;
+  color: white;
+  margin:auto;
+}
+.gino{
+  font-size: 20px;
+}
+#statocarica1{
+ width: 40%;
+ height: 20px;
+ background-color: orange;
+ opacity: 1;
+}
+#statocarica2{
+ width: 60%;
+ height: 20px;
+ background-color: green;
+ opacity: 1;
+}
+#statocarica3{
+ width: 10%;
+ height: 20px;
+ background-color: red;
+ opacity: 1;
+}
